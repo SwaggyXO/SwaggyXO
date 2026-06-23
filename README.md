@@ -31,9 +31,9 @@ Outside of work: building tools I'd actually want to use. Interested in the inte
 | | repo | what |
 |---|---|---|
 | 🔒 | **[cerebrex](https://cerebrex.dev)** | coming soon ;) |
-| 🧰 | **[jobplatform](https://github.com/SwaggyXO/jobplatform)** | self-hosted job search automation, LLM resume scoring, multi-board scraping, fully local |
-| 📡 | **[feedr](https://github.com/SwaggyXO/feedr)** | pluggable LLM pipeline over RSS, surfaces what's worth reading, filters the rest |
-| 🎬 | **[autocontentpipeline](https://github.com/SwaggyXO/autocontentpipeline)** | autonomous short-form video gen, three persona-driven pipelines, zero daily input |
+| 🧰 | **[jobplatform](https://github.com/SwaggyXO/jobplatform)** | coming soon — infrastructure for builders, not just job seekers |
+| 📡 | **[feedr](https://github.com/SwaggyXO/feedr)** | coming soon ;) |
+| 🎬 | **[autocontentpipeline](https://github.com/SwaggyXO/autocontentpipeline)** | coming soon ;) |
 
 ---
 

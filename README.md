@@ -12,7 +12,9 @@ Full-stack engineer with a backend core, I build systems that run in production 
 
 Right now at **Volkswagen Group Digital Solutions**, designing and shipping agentic AI infrastructure: multi-agent orchestration, adaptive memory, knowledge-graph RAG, MCP integration, and computer-use agents.
 
-Outside of work: building tools I'd actually want to use. Interested in the intersection of **agent systems**, **edge AI**, and the blurry line where software starts making decisions.
+Outside of work: building products I'd actually want to exist.
+
+4x hackathon winner. Co-inventor of a WIPO-patented EV routing algorithm.
 
 ---
 
